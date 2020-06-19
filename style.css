@@ -1,0 +1,55 @@
+.name {
+  color: #ff9de2;
+  background-color: #8c82fc;
+  display: inline-block;
+  padding: 10px;
+}
+
+.container {
+  background-color: rgb(0, 0, 0);
+  border-style: dashed;
+  border-width: 4px;
+  border-color: #ffb6b9;
+  padding: 100px;
+  font-size: 150%;
+  width: 1000px;
+  margin:auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-family: 'Lora', serif;
+  color: #7effdb;
+}
+
+.profile {
+  display: inline-block;
+  margin-left: 100px;
+}
+
+li {
+  display: inline;
+  margin: 30px;
+}
+
+table{
+  width: 800px;
+  text-align: center;
+}
+
+hr {
+  border-width: 5px;
+  border-color: rgb(24, 18, 18);
+}
+
+body {
+  background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif);
+}
+
+#project {
+  text-align: center;
+  color: #b693fe;
+  margin-top: 100px;
+}
+
+.title {
+  color: #ff9de2;
+}
